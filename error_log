@@ -1,0 +1,21 @@
+[07-Mar-2019 07:10:08 Etc/GMT] PHP Fatal error:  Call to a member function checkuservalid() on a non-object in /home/qsetihty/public_html/mgadmin/application/controllers/Welcome.php on line 37
+[07-Mar-2019 07:11:21 Etc/GMT] PHP Fatal error:  Call to a member function checkuservalid() on a non-object in /home/qsetihty/public_html/mgadmin/application/controllers/Welcome.php on line 37
+[07-Mar-2019 07:11:25 Etc/GMT] PHP Fatal error:  Call to a member function checkuservalid() on a non-object in /home/qsetihty/public_html/mgadmin/application/controllers/Welcome.php on line 37
+[07-Mar-2019 10:18:42 Etc/GMT] PHP Fatal error:  Call to undefined method Branches::post() in /home/qsetihty/public_html/mgadmin/application/controllers/Branches.php on line 50
+[07-Mar-2019 10:19:33 Etc/GMT] PHP Fatal error:  Call to a member function query() on a non-object in /home/qsetihty/public_html/mgadmin/application/models/Branches_Model.php on line 7
+[07-Mar-2019 16:09:19 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/qsetihty/public_html/mgadmin/application/models/Branches_Model.php on line 10
+[07-Mar-2019 16:12:28 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on a non-object in /home/qsetihty/public_html/mgadmin/application/models/Branches_Model.php on line 10
+[08-Mar-2019 06:47:13 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/qsetihty/public_html/mgadmin/application/controllers/Branches.php on line 81
+[08-Mar-2019 11:01:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/qsetihty/public_html/mgadmin/application/views/editbranch.php on line 22
+[08-Mar-2019 11:10:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/qsetihty/public_html/mgadmin/application/controllers/Branches.php on line 90
+[09-Mar-2019 05:18:18 Etc/GMT] PHP Fatal error:  Call to a member function term_fetch_data() on a non-object in /home/qsetihty/public_html/mgadmin/application/controllers/Branches.php on line 127
+[16-Mar-2019 07:30:06 Etc/GMT] PHP Fatal error:  Cannot redeclare Payment_Model::branch_fetch() in /home/qset/public_html/mgadmin/application/models/Payment_Model.php on line 83
+[18-Mar-2019 20:21:31 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/qset/public_html/mgadmin/application/controllers/Client.php on line 104
+[18-Mar-2019 20:24:27 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/qset/public_html/mgadmin/application/controllers/Client.php on line 126
+[18-Mar-2019 20:28:48 Etc/GMT] PHP Fatal error:  Cannot redeclare Client::set_upload_options() in /home/qset/public_html/mgadmin/application/controllers/Client.php on line 110
+[19-Mar-2019 07:12:44 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'dompdf/autoload.inc.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/qset/public_html/mgadmin/application/libraries/Pdf.php on line 4
+[19-Mar-2019 07:24:17 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required '/home/qset/public_html/mgadmin/application/libraries/dompdf/autoload.inc.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/qset/public_html/mgadmin/application/libraries/Pdf.php on line 13
+[19-Mar-2019 19:21:26 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/qset/public_html/mgadmin/application/controllers/Client.php on line 82
+[24-Jun-2019 07:14:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/mglogistics/public_html/admin/mgadmin/application/views/viewclient.php on line 1
+[24-Jun-2019 07:15:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '<' in /home/mglogistics/public_html/admin/mgadmin/application/views/viewclient.php on line 1
+[23-Jul-2019 12:18:38 Etc/GMT] PHP Fatal error:  Call to undefined method LoginModel::num_rows() in /home/mglogistics/public_html/admin/application/models/LoginModel.php on line 29
